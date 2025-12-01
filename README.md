@@ -12,4 +12,4 @@ USB Cable that supports data (how many times has this caught be me out!)
 some cables to connect the ws2812 to the pico 
 
 
-![Alt text](images/ghost.png)
+![Alt text](RaspberryPiPicoPacmanAnimation16x16ledmatrix/ghost.png)
